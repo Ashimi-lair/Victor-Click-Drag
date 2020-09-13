@@ -1,5 +1,5 @@
-## Drum kit
-The drum kit project from Wes Bos
+## Click Drag
+The Click Drag project from Wes Bos
 
 ### Contributors 
 - Sonde Victor
